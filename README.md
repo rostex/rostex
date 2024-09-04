@@ -7,7 +7,6 @@ Java Backend Developer
 - 🌍  I'm based in Moscow
  - 🌱 I’m currently studying at Hexlet
  - 🔭 Looking for my dream job
- - 🖥️  See my [portfolio](https://cv.hexlet.io/ru/resumes/3878)
 
  ## ⚡ Skills:
  - Java
