@@ -1,8 +1,10 @@
 ## Hi, i'am Alexander!
 Java Backend Developer
 ----------------
+
 I am studying at the Hexlet school, where I learned the fundamentals of programming in Java and got acquainted with modern frameworks such as Spring and Hibernate. During my studies, I developed several projects, which not only deepened my knowledge but also helped me develop teamwork skills.
-----------------
+
+
 - 🌍  I'm based in Moscow
 - 🌱 I’m currently studying at Hexlet
 - 🔭 Looking for my dream job
